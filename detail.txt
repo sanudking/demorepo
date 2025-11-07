@@ -1,2 +1,2 @@
 class b2b
-fe : web
+fe : we
